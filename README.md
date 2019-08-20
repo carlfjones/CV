@@ -42,17 +42,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Southampton (2011 to 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Fashion and Textile Design, Printed Textiles
+- Expert Photoshop, Illustrator and InDesign skills
+- Voted in as Student President
 
-#### Any other qualifications
+#### Other qualifications
+Level 3 Personal Trainer
+Fitness Nutrition Specialist
+Mixed Martial arts Conditioning Specialist
+Boxing & Padwork Coach
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**The Bath & Racquets Club** (NOV 2017 to MAR 2019)    
+*Gym Manager*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
