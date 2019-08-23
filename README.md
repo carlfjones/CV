@@ -10,7 +10,13 @@ I am on the hunt for a full-time developer role, in a company where I can keep g
 
 ## Skills
 
-#### This Skill
+#### Communication
+
+Throughout my career, one of my most useful skills has been my ability to communicate with people. I have an affable and empathetic nature, which has meant I have had great success in both client facing and team based roles. I have developed and honed this skill in every role I have had from building bussiness as a recruiter and personal trainer, to working in a team on projects at Makers Academy.
+
+#### Growth
+
+#### Teamwork
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -18,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Leadership
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -26,6 +32,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+
+#### Motivation/Attitude
+
+
 
 ## Education
 
