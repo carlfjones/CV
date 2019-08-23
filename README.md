@@ -10,11 +10,17 @@ I am on the hunt for a full-time developer role, in a company where I can keep g
 
 ## Skills
 
+#### Growth
+
+I am always eager to keep growing and learning. I enjoy the challenge of constantly learning new skills and developing my knowledge to further my career. Throughout my fitness career I did a number of courses which lasted between 2 days and a year, to help better my craft. When I was focused on design I went on numerous life drawing, painting and drawing courses and did internships to better understand the field I wanted to build my business in.
+
+#### Motivation/Attitude
+
 #### Communication
 
 Throughout my career, one of my most useful skills has been my ability to communicate with people. I have an affable and empathetic nature, which has meant I have had great success in both client facing and team based roles. I have developed and honed this skill in every role I have had from building bussiness as a recruiter and personal trainer, to working in a team on projects at Makers Academy.
 
-#### Growth
+
 
 #### Teamwork
 
@@ -34,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 
-#### Motivation/Attitude
+
 
 
 
