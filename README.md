@@ -90,7 +90,26 @@ Boxing & Padwork Coach
 
 ## Experience
 
-**The Bath & Racquets Club** (NOV 2017 to MAR 2019)    
-*Gym Manager*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Freelance Graphic and Fashion Design**    
+*Graphic design - branding, print and fashion*
+(JUL 2014 - JAN 2017)
+**Head of Design and Co-founder of Bad Pigeon Clothing**    
+*Project on hold - it will return!*
+(JAN 2014 - FEB 2019)
+
+**The Bath & Racquets Club**    
+*Gym Manager*
+(NOV 2017 to APR 2019) 
+*Personal Trainer*  
+(MAR 2017 to NOV 2019)
+**Nuffield Health**    
+*Personal Trainer*
+(DEC 2016 to MAR 2017)
+**Aquent/Vitamin T**    
+*Account Director* 
+(OCT 2016 to DEC 2016)
+*Creative Resourcer*
+(MAY 2016 to OCT 2016)
+**Virgin Active**    
+*Personal Trainer*
+(MAR 2015 to MAY 2016)
