@@ -63,10 +63,10 @@ Languages, processes and frameworks used:
 - Voted in as Student President
 
 #### Other qualifications
-Level 3 Personal Trainer
-Level 2 Fitness Coach
-Fitness Nutrition Specialist
-Mixed Martial arts Conditioning Specialist
+Level 3 Personal Trainer, 
+Level 2 Fitness Coach, 
+Fitness Nutrition Specialist, 
+Mixed Martial arts Conditioning Specialist, 
 Boxing & Padwork Coach
 
 ## Experience
