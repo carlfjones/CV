@@ -53,22 +53,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 
-
-
-
-
 ## Education
 
 #### Makers Academy (APR 2019 to AUG 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+At Makers I grew my curiousity and passion for code. It was imperative to learn concepts fast and be able to work as part of a pair and team. I tackled a large number of challenges and projects, learning new languages and frameworks along the way.
+Please find examples of some of these projects below:
 
-- OOP, TDD, MVC, DDD
+https://github.com/carlfjones/DragonPirates
+https://github.com/carlfjones/Acebook---Data-Thieves
+https://github.com/carlfjones/MakersBnB
+
+Some of the software we used:
+
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Capybara, Sinatra
+- Travis, Heroku
+- Unity
+- C#
 
 #### University of Southampton (2011 to 2014)
 
