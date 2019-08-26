@@ -103,6 +103,7 @@ Boxing & Padwork Coach
 (NOV 2017 to APR 2019) 
 *Personal Trainer*  
 (MAR 2017 to NOV 2019)
+
 **Nuffield Health**    
 *Personal Trainer*
 (DEC 2016 to MAR 2017)
@@ -110,6 +111,7 @@ Boxing & Padwork Coach
 **Aquent/Vitamin T**    
 *Account Director* 
 (OCT 2016 to DEC 2016)
+
 *Creative Resourcer*
 (MAY 2016 to OCT 2016)
 
