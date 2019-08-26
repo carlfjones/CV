@@ -10,19 +10,29 @@ I am on the hunt for a full-time developer role, in a company where I can keep g
 
 ## Skills
 
-#### Growth
+#### Communication and Teamwork
 
-I am always eager to keep growing and learning. I enjoy the challenge of constantly learning new skills and developing my knowledge to further my career. Throughout my fitness career I did a number of courses which lasted between 2 days and a year, to help better my craft. When I was focused on design I went on numerous life drawing, painting and drawing courses and did internships to better understand the field I wanted to build my business in.
+Throughout my career, one of my most useful skills has been my ability to communicate with people. I have an affable and empathetic nature, which has meant I have had great success in both client facing and team based roles. I have developed and honed this skill in every role I have had from building bussiness as a recruiter and personal trainer, to running a team as a manager and most recenlty working in a successful teams on projects at Makers Academy.
+
+#### Creativity and Innovation
+
+I am a creative person, which helps me to both understand and deal with clients and creative problem solving and also thinking outside the box when solving logic problems. I have a strong history in design from my University education and freelance graphic and fashion design work, in addition to this I started my own business in fashion industry (This project is on hiatus, while I begin my career in development - suspended not forgotten!).
+
+Please find a link to a portfolio of my design work here: 
+LINK
 
 #### Motivation/Attitude
 
-#### Communication
+My motivation and attitude in the workplace is one of the reasons I have always excelled. I maintain the believe that positivity, communication and hard work are all imperative for a workplace to be at is most productive and enjoyable for all involved. Beacuse of this, In my two most recent places of work, I was fortunate enough to be promoted over more experienced colleagues. At University I was voted in as Student President and put in charge of a team to be the voice of the students, organise events and ensure a high level of student satisfaction.
 
-Throughout my career, one of my most useful skills has been my ability to communicate with people. I have an affable and empathetic nature, which has meant I have had great success in both client facing and team based roles. I have developed and honed this skill in every role I have had from building bussiness as a recruiter and personal trainer, to working in a team on projects at Makers Academy.
+#### Growth and ability to learn
+
+I have always been and continue to be eager to keep growing and learning. I enjoy the challenge of constantly learning new skills and developing my knowledge to further my career. Throughout my fitness career I completed a number of courses, some of which were a year long, in order to better my craft. When I was focused on design I went on numerous life drawing, painting and drawing courses and enrolled in internships to better understand the industry. Of course, most recently I have dedicated my time to learning how to code at Makers, in my final two week project I managed to teach myself how to use a game engine and a new language. I am looking to continue to learn and push myself both in the workplace and on personal projects.
+
+Makers final project: 
 
 
-
-#### Teamwork
+#### Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -65,6 +75,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Other qualifications
 Level 3 Personal Trainer
+Level 2 Fitness Coach
 Fitness Nutrition Specialist
 Mixed Martial arts Conditioning Specialist
 Boxing & Padwork Coach
