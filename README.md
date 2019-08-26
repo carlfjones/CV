@@ -24,7 +24,7 @@ https://www.behance.net/gallery/84641667/Design-Portfolio
 
 #### Motivation/Attitude
 
-My motivation and attitude in the workplace is one of the reasons I have always excelled. I maintain the believe that positivity, communication and hard work are all imperative for a workplace to be at is most productive and enjoyable for all involved. Because of this, In my two most recent places of work, I was fortunate enough to be promoted over more experienced colleagues. At University I was voted in as Student President and put in charge of a team to be the voice of the students, organise events and ensure a high level of student satisfaction.
+My motivation and attitude in the workplace is one of the reasons I have always excelled. I maintain the belief that positivity, communication and hard work are all imperative for a workplace to be at its most productive and enjoyable for all involved. Because of this, in my two most recent places of work, I was fortunate enough to be promoted over more experienced colleagues. At University I was voted in as Student President and put in charge of a team to be the voice of the students, organise events and ensure a high level of student satisfaction.
 
 #### Growth and ability to learn
 
