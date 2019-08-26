@@ -19,7 +19,8 @@ Throughout my career, one of my most useful skills has been my ability to commun
 I am a creative person, which helps me to both understand and deal with clients and creative problem solving and also thinking outside the box when solving logic problems. I have a strong history in design from my University education and freelance graphic and fashion design work, in addition to this I started my own business in fashion industry (This project is on hiatus, while I begin my career in development - suspended not forgotten!).
 
 Please find a link to a portfolio of my design work here: 
-LINK
+
+https://www.behance.net/gallery/84641667/Design-Portfolio
 
 #### Motivation/Attitude
 
