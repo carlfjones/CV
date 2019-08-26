@@ -93,6 +93,7 @@ Boxing & Padwork Coach
 **Freelance Graphic and Fashion Design**    
 *Graphic design - branding, print and fashion*
 (JUL 2014 - JAN 2017)
+
 **Head of Design and Co-founder of Bad Pigeon Clothing**    
 *Project on hold - it will return!*
 (JAN 2014 - FEB 2019)
@@ -105,11 +106,13 @@ Boxing & Padwork Coach
 **Nuffield Health**    
 *Personal Trainer*
 (DEC 2016 to MAR 2017)
+
 **Aquent/Vitamin T**    
 *Account Director* 
 (OCT 2016 to DEC 2016)
 *Creative Resourcer*
 (MAY 2016 to OCT 2016)
+
 **Virgin Active**    
 *Personal Trainer*
 (MAR 2015 to MAY 2016)
