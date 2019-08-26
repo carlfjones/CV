@@ -64,7 +64,7 @@ https://github.com/carlfjones/DragonPirates
 https://github.com/carlfjones/Acebook---Data-Thieves
 https://github.com/carlfjones/MakersBnB
 
-Some of the software we used:
+Languages, processes and frameworks used:
 
 - OOP, TDD, MVC
 - Agile/XP
