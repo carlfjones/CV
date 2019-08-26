@@ -82,6 +82,7 @@ Boxing & Padwork Coach
 **The Bath & Racquets Club**    
 *Gym Manager*
 (NOV 2017 to APR 2019) 
+
 *Personal Trainer*  
 (MAR 2017 to NOV 2019)
 
